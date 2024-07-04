@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on Arawn's Blog</title><link>aditya-dom.github.io/arawn/categories/programming/</link><description>Recent content in Programming on Arawn's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2024 22:48:00 +0000</lastBuildDate><atom:link href="aditya-dom.github.io/arawn/categories/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Setting up my Mac</title><link>aditya-dom.github.io/arawn/p/mac-system-setup/</link><pubDate>Thu, 14 Mar 2024 22:48:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/p/mac-system-setup/</guid><description>&lt;img src="aditya-dom.github.io/arawn/aditya-dom.github.io/arawn/p/mac-system-setup/setup.jpeg" alt="Featured image of post Setting up my Mac" />&lt;h1 id="system-setup-log">System Setup Log
+&lt;/h1>&lt;p>As an avid user of the MacBook Pro 13 (2022), I am thrilled to share my enthusiastic endorsement of this remarkable device. From its sleek and elegant design to its unparalleled performance and innovative features, the MacBook Pro 13 (2022) has exceeded my expectations on every front.&lt;/p>
+&lt;p>Overall, the MacBook Pro 13 (2022) has truly redefined my expectations of what a laptop can be. With its unparalleled performance, stunning display, and innovative features, it&amp;rsquo;s the perfect companion for anyone looking to unleash their creativity, boost their productivity, and elevate their computing experience to new heights.
+I set this machine up, I did a fullhearted job of logging the process.&lt;/p>
+&lt;h2 id="the-procedure">The Procedure
+&lt;/h2>&lt;ul>
+&lt;li>User Settings
+&lt;ul>
+&lt;li>System came with my home directory set as &amp;lsquo;aditya&amp;rsquo; and User name as
+&amp;lsquo;Arawn&amp;rsquo;&lt;/li>
+&lt;li>Create a new admin account, log out of current account and into admin account&lt;/li>
+&lt;li>In admin account, rename home directory to &amp;lsquo;Sensei&amp;rsquo; (or whatever name),
+and then in Preferences-&amp;gt;Users and Groups, unlock and ctrl-click on your
+account for &amp;lsquo;advanced settings&amp;rsquo;&lt;/li>
+&lt;li>In advanced settings, change the name to your name and name of the home
+directory to the name of your home directory. Make sure user name is same
+as that of home directory.&lt;/li>
+&lt;li>Restart, log back in and delete admin account.&lt;/li>
+&lt;li>Set the computer HostName, LocalHostName and ComputerName to MacBook-Pro:&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">sudo scutil --set HostName MacBook-Pro
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">sudo scutil --set LocalHostName MacBook-Pro
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">sudo scutil --set ComputerName MacBook-Pro
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">dscacheutil -flushcache
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;lt;restart&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>
+&lt;p>System Prefs&lt;/p>
+&lt;ul>
+&lt;li>Resolution of 1440x900 (Displays)&lt;/li>
+&lt;li>Uncheck natural scroll direction (Trackpad-&amp;gt;Scroll and Zoom)&lt;/li>
+&lt;li>Use F1, F2 as function keys (Keyboard)&lt;/li>
+&lt;li>Don&amp;rsquo;t show input menu in menu bar (Keyboard-&amp;gt;Input Sources)&lt;/li>
+&lt;li>Dark Mode&lt;br>
+&lt;img src="aditya-dom.github.io/arawn/p/mac-system-setup/darkside.jpeg"
+width="271"
+height="186"
+srcset="aditya-dom.github.io/arawn/p/mac-system-setup/darkside_hu98a3c37bcd80352aa85b64c6da9eb82d_9502_480x0_resize_q75_box.jpeg 480w, aditya-dom.github.io/arawn/p/mac-system-setup/darkside_hu98a3c37bcd80352aa85b64c6da9eb82d_9502_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="dark side meme"
+class="gallery-image"
+data-flex-grow="145"
+data-flex-basis="349px"
+>&lt;/li>
+&lt;li>Change computer name to MacBook-Pro (Sharing)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Google Chrome:&lt;/p>
+&lt;ul>
+&lt;li>Download, drag and drop&lt;/li>
+&lt;li>Sign in and sync stuff&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Sublime Text&lt;/p>
+&lt;ul>
+&lt;li>Download, drag and drop&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Content&lt;/p>
+&lt;ul>
+&lt;li>Transfer personal files from HDD&lt;/li>
+&lt;li>Screen background to &lt;code>hacker_img.jpg&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Things 3&lt;/p>
+&lt;ul>
+&lt;li>Install from Mac App Store&lt;/li>
+&lt;li>Sign in and sync tasks&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>iTerm 2&lt;/p>
+&lt;ul>
+&lt;li>Download, drag and drop&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>By now, the system should be looking pretty good. Catalina uses &lt;code>zsh&lt;/code> rather than
+bash, and clang rather than gcc, so porting some stuff over will be tricky, but
+we&amp;rsquo;ll get to that in a minute.&lt;/p>
+&lt;ul>
+&lt;li>Git
+&lt;ul>
+&lt;li>download mac installer from &lt;code>git-scm.com&lt;/code>&lt;/li>
+&lt;li>ctrl-click and click &amp;lsquo;open&amp;rsquo; (security won&amp;rsquo;t let you click to open)&lt;/li>
+&lt;li>follow installer guidelines
+? Will xcode command line tools eat this up?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&amp;lt;DON&amp;rsquo;T DO THIS!&amp;gt;&lt;/p>
+&lt;ul>
+&lt;li>Python
+&lt;ul>
+&lt;li>Download latest stable installer from web&lt;/li>
+&lt;li>Double click and install &lt;br>
+! Don&amp;rsquo;t do this because this does not install python properly; you have to
+hack around it and do a ton of exports and stuff. I had to uninstall
+python after this, using instructions from &lt;a class="link" href="https://stackoverflow.com/questions/3819449/how-to-uninstall-python-2-7-on-a-mac-os-x-10-6-4/3819829#381982" target="_blank" rel="noopener"
+>here&lt;/a>
+and &lt;a class="link" href="https://superuser.com/questions/276840/uninstalling-python-3-on-a-mac" target="_blank" rel="noopener"
+>here&lt;/a>.
+Best way to install is to use &lt;code>brew&lt;/code> (this keeps the python updated) and
+&lt;code>pyenv&lt;/code>, so first install &lt;code>brew&lt;/code>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&amp;lt;/DON&amp;rsquo;T DO THIS!&amp;gt;&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>XCode Command Line Tools&lt;/p>
+&lt;ul>
+&lt;li>GCC, &lt;code>clang&lt;/code>, &lt;code>make&lt;/code> etc etc&lt;/li>
+&lt;li>Download from developer.apple.com, mount, use .pkg installer&lt;/li>
+&lt;li>It&amp;rsquo;s a 400 MB download and takes 2.54 GB of space on the system.&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>This doesn&amp;rsquo;t eat up git (&lt;code>git --version&lt;/code> still gives git 2.27, so yay!)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Homebrew&lt;/p>
+&lt;ul>
+&lt;li>Needed for practically everything :P&lt;/li>
+&lt;li>visit brew.sh and copy-paste the installation command&lt;/li>
+&lt;li>Again, a huge download here (350 MB)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Python&lt;/p>
+&lt;ul>
+&lt;li>Use &lt;code>pyenv&lt;/code> to download and install python, as shown in the article &lt;a class="link" href="https://opensource.com/article/19/5/python-3-default-mac" target="_blank" rel="noopener"
+>https://opensource.com/article/19/5/python-3-default-mac&lt;/a>&lt;/li>
+&lt;li>In short, do the following:&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">brew install pyenv
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv install 3.9.0 &lt;span class="c1"># replace with latest python version&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv global 3.9.0 &lt;span class="c1"># set 3.9.0 as global version&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv version &lt;span class="c1"># double check version&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> -e &lt;span class="s1">&amp;#39;if command -v pyenv 1&amp;gt;/dev/null 2&amp;gt;&amp;amp;1; then\n eval &amp;#34;$(pyenv init -)&amp;#34;\nfi&amp;#39;&lt;/span> &amp;gt;&amp;gt; ~/.zshrc &lt;span class="c1"># voodoo magic that allows pyenv to work&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">exit&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>and now do &lt;code>python -V&lt;/code> and &lt;code>pip -V&lt;/code> to verify that python 3.9.0 is loaded&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Vim&lt;/p>
+&lt;ul>
+&lt;li>Copy &lt;code>.vim&lt;/code> and &lt;code>.vimrc&lt;/code> from previous system&lt;/li>
+&lt;li>check if clipboard copy/paste is enabled: &lt;code>vim --version | grep clipboard&lt;/code>,
+a + sign appears if clipboard is enabled&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>ZSH&lt;/p>
+&lt;ul>
+&lt;li>edit &lt;code>.zprofile&lt;/code> and add &lt;code>export CLICOLOR=1&lt;/code> for coloured output from commands&lt;/li>
+&lt;li>add prompt tweaks &lt;code>PS1='%F{green}%n@%m:%f %F{blue}%~%f %% '&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>iTerm2&lt;/p>
+&lt;ul>
+&lt;li>Tweak profile; first, create a new profile&lt;/li>
+&lt;li>Change background color to &lt;code>333333&lt;/code>, foreground to &lt;code>dddddd&lt;/code> and other colors
+to pastel colours&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Mail&lt;/p>
+&lt;ul>
+&lt;li>Log in to google&lt;/li>
+&lt;li>Configure signatures, calendars, mail folders etc&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Projects&lt;/p>
+&lt;ul>
+&lt;li>This is the meaty part. Start with the blog:&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git clone --select-branch --branch &lt;span class="nb">source&lt;/span> https://github.com/Aditya-dom/arawn.github.io
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">mv arawn.github.io blog
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> blog
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">virtualenv venv
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">source&lt;/span> venv/bin/activate
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;venv&amp;#34;&lt;/span> &amp;gt; .gitignore
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install -r requirements.txt
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>then whip up this article. I ran into a small hiccup while using &lt;code>make html&lt;/code>:
+the version of Pelican that &lt;code>pip&lt;/code> installed was 4.5.0, and that broke with the
+old Flex theme. I had made some modifications to the theme (MathJax) and didn&amp;rsquo;t
+want to lose them by upgrading. So, I downgraded pelican to 4.2.0 and then made
+the files. Takeaway is use &lt;code>make html DEBUG=1&lt;/code> for debugger output. Do a &lt;code>make serve&lt;/code>
+to check out formatting, after which do &lt;code>make github&lt;/code> to push to github pages, which is what
+you&amp;rsquo;re reading now (this article has been made from the mac :)&lt;/p>
+&lt;p>for further updates, refer to the repository linked above.&lt;/p>
+&lt;script src="https://giscus.app/client.js"
+data-repo="Aditya-dom/arawn.github.io"
+data-repo-id="R_kgDOLeAbmQ"
+data-category="General"
+data-category-id="DIC_kwDOLeAbmc4CeCQd"
+data-mapping="title"
+data-strict="0"
+data-reactions-enabled="1"
+data-emit-metadata="1"
+data-input-position="top"
+data-theme="dark_dimmed"
+data-lang="en"
+data-loading="lazy"
+crossorigin="anonymous"
+async>
+&lt;/script></description></item></channel></rss>

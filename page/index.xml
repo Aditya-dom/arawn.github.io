@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Arawn's Blog</title><link>aditya-dom.github.io/arawn/page/</link><description>Recent content in Pages on Arawn's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="aditya-dom.github.io/arawn/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>aditya-dom.github.io/arawn/about/</link><pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/about/</guid><description>&lt;p>Hello, I&amp;rsquo;m Aditya, a first-year undergraduate student at IET Lucknow. My academic journey is marked by a keen interest in cutting-edge technologies, particularly within the realms of Deep Learning and Quantitative Research and Trading. Currently, I am engaged in independent research on Large Language Models (LLMs) using platforms like &lt;a class="link" href="https://huggingface.co/" target="_blank" rel="noopener"
+>Hugging Face&lt;/a> and &lt;a class="link" href="https://openai.com/research/gpt-4" target="_blank" rel="noopener"
+>OpenAI&amp;rsquo;s GPT models (GPT-4 Turbo)&lt;/a>, including &lt;a class="link" href="https://ollama.com/library/llama2" target="_blank" rel="noopener"
+>ollama.v.llama2&lt;/a> .&lt;/p>
+&lt;p>In addition to my academic pursuits, I bring a practical dimension to my passion through hands-on experiences. I have delved into the world of algorithmic trading with a focus on quantitative research &amp;amp; trading. My exposure includes valuable experience at &lt;a class="link" href="https://density.exchange/" target="_blank" rel="noopener"
+>Density Exchange&lt;/a>, where I actively participated in algorithmic trading. This experience has not only sharpened my analytical skills but has also given me insights into the dynamic landscape of financial markets.&lt;/p>
+&lt;p>My passion extends beyond the theoretical, as I actively explore the practical applications of my knowledge. I have a particular inclination towards Web Development, seeking to blend creativity with functionality. Additionally, I find joy and challenge in Competitive Coding, where I continually hone my problem-solving skills and algorithmic thinking.&lt;/p>
+&lt;p>As I embark on my academic and research endeavors, I am eager to contribute to the ever-evolving landscape of technology and make meaningful strides in the fields that captivate my interest. My multifaceted interests, coupled with my practical experience in algorithmic trading, reflect not only my academic pursuits but also my commitment to staying at the forefront of innovation and applying my skills in real-world scenarios.&lt;/p>
+&lt;p>I look forward to leveraging my academic foundation, research initiatives, and diverse interests to contribute meaningfully to the dynamic world of technology and make a positive impact.&lt;/p></description></item><item><title>Archives</title><link>aditya-dom.github.io/arawn/archives/</link><pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/archives/</guid><description/></item><item><title>Projects</title><link>aditya-dom.github.io/arawn/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/projects/</guid><description>&lt;h1 id="adityas-projects-showcase">Aditya&amp;rsquo;s Projects Showcase
+&lt;/h1>&lt;h2 id="adityas-ravage-ecosystem">Aditya&amp;rsquo;s Ravage Ecosystem
+&lt;/h2>&lt;h3 id="penetration-testing-tools">Penetration Testing Tools
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Moonwalk-back&lt;/strong>: Moonwalk-back is a penetration testing tool designed to leave zero traces on system logs, ensuring discreet testing activities.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Moonwalk-back" target="_blank" rel="noopener"
+>Moonwalk-back&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Moonwalk-back"
+loading="lazy"
+alt="Moonwalk-back Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="post-exploitation-techniques">Post-Exploitation Techniques
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Rusty-arsenal&lt;/strong>: Rusty-arsenal leverages Rust programming language for post-exploitation techniques and process injection, providing robust security solutions.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Rusty-arsenal" target="_blank" rel="noopener"
+>Rusty-arsenal&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Rusty-arsenal"
+loading="lazy"
+alt="Rusty-arsenal Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="adityas-ml-ecosystem">Aditya&amp;rsquo;s ML Ecosystem
+&lt;/h2>&lt;h3 id="quantitative-finance">Quantitative Finance
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Quantitative Finance with Backtesting Strategies&lt;/strong>: This project focuses on implementing elegant and classic strategies for quantitative finance, facilitating reliable backtesting of trading strategies.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Quantfinance-with-backtesting" target="_blank" rel="noopener"
+>Quantitative Finance Backtesting&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Quantfinance-with-backtesting"
+loading="lazy"
+alt="Quantitative Finance Backtesting Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="virtual-try-on">Virtual Try-On
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Virtual Try-On of Clothes&lt;/strong>: Utilizing convolutional neural networks and recurrent neural networks, this project enables virtual try-on of clothes, enhancing the online shopping experience.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Try-on-of-clothes-using-CNN-RNN" target="_blank" rel="noopener"
+>Virtual Try-On&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Try-on-of-clothes-using-CNN-RNN"
+loading="lazy"
+alt="Virtual Try-On Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="breast-cancer-detection-using-image-processing-different-approaches">Breast cancer detection using Image Processing different Approaches
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Image Processing with Various Approaches&lt;/strong>: Employing multiple techniques such as image processing and classifiers, this project aims to solve various image-related tasks.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL" target="_blank" rel="noopener"
+>Breast-Cancer-Predictions&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL"
+loading="lazy"
+alt="Breast-Cancer-Predictions"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="reinforcement-learning">Reinforcement Learning
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Reinforcement Learning based on Stock Trading&lt;/strong>: Using a DRQN model, this project applies reinforcement learning techniques to stock trading, aiming for optimized trading decisions.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading" target="_blank" rel="noopener"
+>Stock Trading using RL&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Deep-Reinforcement-learning-stock-trading"
+loading="lazy"
+alt="Stock Trading RL Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;script src="https://giscus.app/client.js"
+data-repo="Aditya-dom/arawn.github.io"
+data-repo-id="R_kgDOLeAbmQ"
+data-category="General"
+data-category-id="DIC_kwDOLeAbmc4CeCQd"
+data-mapping="title"
+data-strict="0"
+data-reactions-enabled="1"
+data-emit-metadata="1"
+data-input-position="top"
+data-theme="dark_dimmed"
+data-lang="en"
+data-loading="lazy"
+crossorigin="anonymous"
+async>
+&lt;/script></description></item><item><title>Search</title><link>aditya-dom.github.io/arawn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/search/</guid><description/></item></channel></rss>

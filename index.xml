@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arawn's Blog</title><link>aditya-dom.github.io/arawn/</link><description>Recent content on Arawn's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="aditya-dom.github.io/arawn/index.xml" rel="self" type="application/rss+xml"/><item><title>Intern Hunting</title><link>aditya-dom.github.io/arawn/p/intern-hunting/</link><pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/p/intern-hunting/</guid><description>&lt;img src="aditya-dom.github.io/arawn/aditya-dom.github.io/arawn/p/intern-hunting/trade.jpeg" alt="Featured image of post Intern Hunting" />&lt;blockquote>
+&lt;p>Not everything goes exactly as planned. That&amp;rsquo;s why it&amp;rsquo;s a plan, not a certainty.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="aim-was">Aim was
+&lt;/h2>&lt;p>To-do; atleast one Internship in the first year, and I&amp;rsquo;m glad to say that I have been selected as an Algorithmic Trading Intern at &lt;a class="link" href="https://density.exchange/" target="_blank" rel="noopener"
+>Density&lt;/a> in First semester.(🏌️‍♂️)&lt;del>Rejections laughing in the corner.&lt;/del>
+Anyways,So, my aim has been accomplished.&lt;/p>
+&lt;blockquote>
+&lt;p>NOW (🦍)&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="aiming-in">Aiming in
+&lt;/h2>&lt;p>Before this entire &lt;em>joomla&lt;/em> started, I asked myself: &lt;em>What is it I want from an intern&lt;/em>?&lt;/p>
+&lt;ul>
+&lt;li>I want to tour: I want to go on a some Solo-trip aboroad, but my main goal is my internship, as mentioned earlier(🦍). and I was tired of hearing/seeing how others were roaming the world while I was scooping Ball off the floor of my room.&lt;/li>
+&lt;li>I want something that paid well: Apart from the feel-good factor, a good paying intern would put money for my first Car&amp;rsquo; in the SIPs/Stocks or in anyother assets or I&amp;rsquo;ll just trade with that money who knows but main goal is &amp;hellip; as mentioned earlier.&lt;/li>
+&lt;/ul>
+&lt;p>Above both of these:&lt;/p>
+&lt;ul>
+&lt;li>I want something that would &lt;strong>help me in the future&lt;/strong>: Research or core CS/Math roles would provide both relevant work experience and also appeal to Trading firms when I go for my fulltime work. I definetly didn&amp;rsquo;t want to pick up finance/consulting/&lt;em>enterprise/backend/frontend&lt;/em> development.&lt;/li>
+&lt;li>I want something &lt;strong>fun&lt;/strong>: Writing high-stakes trading algorithms, making hyper-efficient and superfast systems on embedded devices, implementing object recognition on embedded sensors, receiving patents/publishing papers on new models and algorithms is a small but representative subset of the kind of work I want to do this summer.&lt;/li>
+&lt;/ul>
+&lt;p>Another way of looking at this is &lt;strong>saying no&lt;/strong>: proceed by elimination rather than addition. This requires knowing yourself very well, and seeing if a role really resonates with what you want to do. Eg if you&amp;rsquo;re a product person and have worked in programming clubs, developing systems, then a SDE role would appeal to you. Don&amp;rsquo;t apply to anything other than SDE.&lt;/p>
+&lt;p>With this in mind, I built up a small shortlist of companies to apply to. Mostly quant and research roles.&lt;/p>
+&lt;h2 id="bluffington-but-with-higher-stakes">Bluffington, but with higher stakes
+&lt;/h2>&lt;p>Intern season this time formally started off in early July, when talks were held by the Office of Career Services and the resumé portal opened for a short while (albeit there were several deadline extensions). For context, your CV is what companies would shortlist you based on, and for everything you wrote on there, proof was required. I didn&amp;rsquo;t have much to put on it except a large number of projects, some Bug hunter Achievements, And my previous experience at &lt;a class="link" href="https://density.exchange/" target="_blank" rel="noopener"
+>Density&lt;/a> and some volunteer experience, and I believe that&amp;rsquo;s more than enough for a Tech CV (where shortlisting is mostly done either through CG or through your performance in some arcane test that the company conjures). Just be completely aware of what you&amp;rsquo;re putting in there, and what each project was: the CV is used for HR/Face to face interviews, and you&amp;rsquo;ll probably be quizzed on atleast a couple domains where you&amp;rsquo;ve done projects. And please, please, &lt;em>don&amp;rsquo;t bluff&lt;/em>.&lt;/p>
+&lt;p>PS: this is only relevant to tech/research roles. I have no idea what makes a good finance/consult CV.&lt;/p>
+&lt;h2 id="the-dance-of-dragons">The Dance of Dragons
+&lt;/h2>&lt;p>I think the most important thing here is to &lt;strong>Stick to your list&lt;/strong>: You&amp;rsquo;ll see friends and most people applying to absolutely everything and anything in the hopes that an intern will materialize somewhere. There are multiple downsides to this:&lt;/p>
+&lt;ul>
+&lt;li>Too many tests will tire you out&lt;/li>
+&lt;li>Even if you clear all the tests and are shortlisted for interviews from multiple companies, there are only so many Day 1 slots that companies will allocate to you (I think 4 is the upper limit), so even if you want to, you can&amp;rsquo;t sit everywhere.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>NOTE: I will always be grateful to my mentors &lt;a class="link" href="https://www.linkedin.com/in/overide/" target="_blank" rel="noopener"
+>Atul Kumar&lt;/a> and &lt;a class="link" href="https://www.linkedin.com/in/gyan1310/" target="_blank" rel="noopener"
+>Gyan Sharma&lt;/a> for their guidance, and this piece of information has also been acquired through their expertise, and since they are working professionals, you can rely on the information they provide.&lt;/p>
+&lt;/blockquote>
+&lt;p>On the other hand, this does require a lot of tenacity and self-belief, and a &lt;em>good CG/plenty of skill as well&lt;/em>. There&amp;rsquo;s no one right answer, just make sure you don&amp;rsquo;t switch your strategy out of desperation midway (eg go through your list, then realize that if there are too many companies open and your chances are low, apply to all of them, or vice versa). Go in with a plan, and try to stick to it as much as possible from your end, because you can&amp;rsquo;t control what happens outside.&lt;/p>
+&lt;blockquote>
+&lt;p>NOTE: Everything Matters..every piece of acds/skills.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="longlists">Longlists
+&lt;/h2>&lt;p>After applications, shortlists for tests begin to arrive. Companies have free will in how they&amp;rsquo;ll shortlist people: some are very transparent, and some are opaque to the point of being devious. The test processes for some of the most wanted companies spans multiple tests rather than just one, so keep an eye out on that as well. Also, while companies will do their best to avoid test slot clashes, you will become a walking zombie if you take too many or, in the worst case, will have a bunch of slot clashes. Combined with 8am offline classes and 11pm tests, &lt;em>just don&amp;rsquo;t push yourself by applying to as many companies as you can&lt;/em>. Just don&amp;rsquo;t.&lt;/p>
+&lt;p>Another aspect is to not be disappointed if you don&amp;rsquo;t make a test shortlist: it&amp;rsquo;s probably just a random thing (unless there are clear patterns such as a CG cutoff), and you shouldn&amp;rsquo;t beat yourself up about it. Learning to not let these things affect you is hard, but an important learning nevertheless.&lt;/p>
+&lt;h2 id="tests-and-shortlists">Tests and shortlists
+&lt;/h2>&lt;p>Ah, the tests. Probably my least favourite part, because unless you&amp;rsquo;re super amazing at the test, there&amp;rsquo;s a complete black box behind the outcome (how well your test went) and the interview shortlist&lt;/p>
+&lt;ul>
+&lt;li>A test I gave where I thought I&amp;rsquo;d done pretty well (there was a monte carlo approximation problem that I did nicely), didn&amp;rsquo;t result in a shortlist. Others (who didn&amp;rsquo;t do this problem) got shortlisted.&lt;/li>
+&lt;li>A test where I thought I&amp;rsquo;d done poorly resulted in me getting a shortlist&lt;/li>
+&lt;li>A company which had multiple rounds of tests, and finally a pre-interview, completely roasted me in the pre-interview, while several others said that they&amp;rsquo;d found their pre-interview to be &lt;em>very chill&lt;/em>. They got shortlisted, while I didn&amp;rsquo;t.&lt;/li>
+&lt;/ul>
+&lt;p>Also, most companies won&amp;rsquo;t have tests that are relevant to the work you&amp;rsquo;d be doing at the company. It&amp;rsquo;s mostly a bunch of CP questions (gets harder for more valuable companies), and if you&amp;rsquo;re in quant, some math MCQ&amp;rsquo;s. Very few companies invest a lot of time and effort in the kind of questions they ask/the processes they take, and it&amp;rsquo;s a pleasure in some sense to give those tests. Also, if the test is too easy, there is no differentiator between you and someone&lt;/p>
+&lt;p>This is probably where the completely stochastic nature of life comes face-to-face with you: The stochasticity of the outcome is inversely proportional to your skill, and the only way to minimize it is to be an order-of-magnitude better than everyone else. Or, just get lucky.&lt;/p>
+&lt;p>This has two important implications:&lt;/p>
+&lt;ul>
+&lt;li>If you got rejected, it doesn&amp;rsquo;t mean that you&amp;rsquo;re worse than the others who got shortlisted.&lt;/li>
+&lt;li>If you got shortlisted, it doesn&amp;rsquo;t mean that you&amp;rsquo;re better than the others who got rejected.&lt;/li>
+&lt;/ul>
+&lt;p>A very skilled (and very humble) friend keeps saying &lt;em>Tukke pe jee raha hu mai&lt;/em> (I&amp;rsquo;m living on a fluke) whenever praised for his skills, and it&amp;rsquo;s a brilliant thing to do: accept the universe is larger than you and be grateful for it&amp;rsquo;s outcomes. That way, you&amp;rsquo;re always humble and happy.&lt;/p>
+&lt;h2 id="preference-filling">Preference Filling
+&lt;/h2>&lt;blockquote>
+&lt;p>In all things, have no preferences.
+~ Miyamoto Musashi&lt;/p>
+&lt;/blockquote>
+&lt;p>This should be a no-brainer by this point. However, more context: Quant got into a bidding war over Talent, with multiple raises: I don&amp;rsquo;t want to quote exact numbers here, but there was an almost 50% increase in the stipend offered, and they were already offering a lot. In addition, Quant companies with foreign bases leveraged their position to offer foreign roles as well, paid in GBP/SGD, which would be a no-brainer for most&lt;sup>1&lt;/sup>. Unfortunately, when I started, this was not there and some of these companies didn&amp;rsquo;t make my shortlist, but for others, if the goalposts change and if you had them in your shortlist, now would be a good time to realistically reconsider where you want to go.&lt;/p>
+&lt;h2 id="faceoff-be-it-online-or-offline">Faceoff (be it online or offline)
+&lt;/h2>&lt;blockquote>
+&lt;p>I have three Interview experiences with real person at &lt;a class="link" href="https://trexquant.com/" target="_blank" rel="noopener"
+>Trexquant Investment Lp&lt;/a>, &lt;a class="link" href="https://density.exchange/" target="_blank" rel="noopener"
+>Density&lt;/a> and, Recently, one with AI at &lt;a class="link" href="https://mercor.com/" target="_blank" rel="noopener"
+>Mercor&lt;/a> till now.&lt;/p>
+&lt;/blockquote>
+&lt;p>So you&amp;rsquo;re walking in for interviews, sharply dressed, with your resume/CV in hand. What now? It&amp;rsquo;s easy to say &amp;ldquo;Just be cool&amp;rdquo;, but very hard to do. I think the most important thing is to go with the flow and be yourself, atleast in tech. And remember to keep it simple: start off with the simplest solution you can think of, then layer in complexity. In an interview, emphasis is on communication and clarity of thought rather than complexity, and if you&amp;rsquo;re starting off simple, it&amp;rsquo;s much easier to hook in your interviewer and keep him in your thought process rather than starting off complex and trying to break down complexity to explain to him (mostly because they anyway have a more complex problem, which they&amp;rsquo;ll spring upon you once you solve the simple problem correctly).&lt;/p>
+&lt;h2 id="what-now">What now?
+&lt;/h2>&lt;p>So your interviews are over, and you&amp;rsquo;re waiting at your room, playing cards and biding time till your offer comes in. Just do that, Be cool.&lt;br>
+What does your next LinkedIn post say?&lt;/p>
+&lt;p>&lt;em>drumrolls&lt;/em>&lt;/p>
+&lt;blockquote class='spoiler'>
+&lt;div class="spoiler-prompt">I&amp;#39;m pleased to announce that I&amp;#39;ll be joining ...&lt;/div>
+&lt;div class='spoiler-text'>
+I'm pleased to announce that I'll be joining &lt;b>XYZ&lt;/b> as a &lt;b>Algorithmic Trading Intern&lt;/b>. I'll be working on optimizing their low-latency systems and finding out what goes into the tech that makes one of the world's leading market makers tick.
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;code>&amp;lt;/linkedin post&amp;gt;&lt;/code>&lt;/p>
+&lt;p>Truth be told, it&amp;rsquo;s not as simple as this. Never is. Here&amp;rsquo;s a small sankey diagram I made of how the entire process unfolded.&lt;/p>
+&lt;p>&lt;img src="aditya-dom.github.io/arawn/p/intern-hunting/intern-search.png"
+width="1000"
+height="600"
+srcset="aditya-dom.github.io/arawn/p/intern-hunting/intern-search_hude874fa7b4413f40e0f5b4133bce4a04_69067_480x0_resize_box_3.png 480w, aditya-dom.github.io/arawn/p/intern-hunting/intern-search_hude874fa7b4413f40e0f5b4133bce4a04_69067_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="166"
+data-flex-basis="400px"
+>&lt;/p>
+&lt;p>I had two shortlists and ended up converting both, and I really enjoyed the interview processes in both the companies I applied to. Very kind and very smart interviewers, very cool people overall. Would&amp;rsquo;ve loved to send one half of me to each company, but unfortunately that&amp;rsquo;s not possible :')&lt;/p>
+&lt;blockquote>
+&lt;blockquote>
+&lt;p>All the best, and happy intern hunting!&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote></description></item><item><title>Harmonizing Emotions</title><link>aditya-dom.github.io/arawn/p/harmonizing-emotions/</link><pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/p/harmonizing-emotions/</guid><description>&lt;img src="aditya-dom.github.io/arawn/aditya-dom.github.io/arawn/p/harmonizing-emotions/Cover.jpg" alt="Featured image of post Harmonizing Emotions" />&lt;p>In the tapestry of human experience, few threads are as intricately woven as the connection between music and emotions. Across cultures and centuries, music has served as a conduit for expressing the deepest recesses of the human soul, stirring emotions that words alone often fail to capture. Yet, within the rich tapestry of Hindu mythology, this connection takes on an even more profound dimension, intertwining with the divine itself.&lt;/p>
+&lt;p>Central to Hindu beliefs is the concept of Nada Brahman, the divine sound or cosmic vibration that permeates the universe. It is from this primordial vibration that the universe is said to have emanated, and it is within the realm of sound that the divine is most intimately experienced. In this cosmic symphony, the role of music becomes elevated to that of a sacred art, a means of communing with the divine and attuning oneself to the cosmic rhythms.&lt;/p>
+&lt;p>At the heart of this sacred connection is Goddess Saraswati, revered as the embodiment of knowledge, music, and the arts. In Hindu iconography, she is often depicted seated on a lotus, adorned with a veena (a stringed instrument), her graceful fingers coaxing forth melodies that resonate with the very essence of creation. As the patroness of music, Saraswati&amp;rsquo;s presence infuses every note with divine inspiration, elevating music beyond mere entertainment to a form of worship.&lt;/p>
+&lt;p>But the divine connection with music does not end with Saraswati alone. In the pantheon of Hindu deities, Lord Shiva, the supreme god of destruction and transformation, also holds a profound relationship with sound. According to Hindu mythology, Shiva is often depicted as Nataraja, the cosmic dancer whose rhythmic movements symbolize the cycles of creation, preservation, and destruction.&lt;/p>
+&lt;p>Yet, perhaps even more intriguing is the mythological tale of Shiva&amp;rsquo;s self-creation through sound. In the ancient scriptures, it is said that Shiva, in his formless state, immersed himself in profound meditation. As he delved deeper into the depths of his being, he became aware of the primordial vibration—the eternal hum that underlies all existence. With a single sound, the divine Aum, Shiva manifested himself, transcending the boundaries of time and space to become the eternal god of creation and destruction.&lt;/p>
+&lt;p>In this mythological narrative, the profound connection between music and divinity is laid bare. Just as Shiva created himself through the power of sound, so too does music possess the transformative ability to shape our consciousness and transcend our earthly limitations. In the rhythms and melodies that reverberate through the cosmos, we glimpse the eternal dance of creation and destruction, and in our own music-making, we participate in this divine symphony.&lt;/p>
+&lt;p>Beyond mere entertainment or artistic expression, music becomes a sacred offering, a pathway to divine communion. Whether through the soul-stirring melodies of Saraswati&amp;rsquo;s veena or the cosmic vibrations that gave birth to Shiva himself, the divine presence infuses every note with transcendental significance. And as we listen, create, and immerse ourselves in the mystical world of sound, we find ourselves drawn ever closer to the divine source from which all music emanates.&lt;/p>
+&lt;p>In the end, the connection between music, human emotions, and Hindu mythology is not merely a matter of cultural tradition or religious belief. It is a profound reminder of the inherent unity of all existence, a testament to the power of sound to transcend the limitations of the material world and connect us to the eternal rhythms of the cosmos. And in this divine symphony, we find solace, inspiration, and a glimpse of the ineffable beauty that lies at the heart of creation itself.&lt;/p>
+&lt;script src="https://giscus.app/client.js"
+data-repo="Aditya-dom/arawn.github.io"
+data-repo-id="R_kgDOLeAbmQ"
+data-category="General"
+data-category-id="DIC_kwDOLeAbmc4CeCQd"
+data-mapping="title"
+data-strict="0"
+data-reactions-enabled="1"
+data-emit-metadata="1"
+data-input-position="top"
+data-theme="dark_dimmed"
+data-lang="en"
+data-loading="lazy"
+crossorigin="anonymous"
+async>
+&lt;/script></description></item><item><title>Setting up my Mac</title><link>aditya-dom.github.io/arawn/p/mac-system-setup/</link><pubDate>Thu, 14 Mar 2024 22:48:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/p/mac-system-setup/</guid><description>&lt;img src="aditya-dom.github.io/arawn/aditya-dom.github.io/arawn/p/mac-system-setup/setup.jpeg" alt="Featured image of post Setting up my Mac" />&lt;h1 id="system-setup-log">System Setup Log
+&lt;/h1>&lt;p>As an avid user of the MacBook Pro 13 (2022), I am thrilled to share my enthusiastic endorsement of this remarkable device. From its sleek and elegant design to its unparalleled performance and innovative features, the MacBook Pro 13 (2022) has exceeded my expectations on every front.&lt;/p>
+&lt;p>Overall, the MacBook Pro 13 (2022) has truly redefined my expectations of what a laptop can be. With its unparalleled performance, stunning display, and innovative features, it&amp;rsquo;s the perfect companion for anyone looking to unleash their creativity, boost their productivity, and elevate their computing experience to new heights.
+I set this machine up, I did a fullhearted job of logging the process.&lt;/p>
+&lt;h2 id="the-procedure">The Procedure
+&lt;/h2>&lt;ul>
+&lt;li>User Settings
+&lt;ul>
+&lt;li>System came with my home directory set as &amp;lsquo;aditya&amp;rsquo; and User name as
+&amp;lsquo;Arawn&amp;rsquo;&lt;/li>
+&lt;li>Create a new admin account, log out of current account and into admin account&lt;/li>
+&lt;li>In admin account, rename home directory to &amp;lsquo;Sensei&amp;rsquo; (or whatever name),
+and then in Preferences-&amp;gt;Users and Groups, unlock and ctrl-click on your
+account for &amp;lsquo;advanced settings&amp;rsquo;&lt;/li>
+&lt;li>In advanced settings, change the name to your name and name of the home
+directory to the name of your home directory. Make sure user name is same
+as that of home directory.&lt;/li>
+&lt;li>Restart, log back in and delete admin account.&lt;/li>
+&lt;li>Set the computer HostName, LocalHostName and ComputerName to MacBook-Pro:&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">sudo scutil --set HostName MacBook-Pro
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">sudo scutil --set LocalHostName MacBook-Pro
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">sudo scutil --set ComputerName MacBook-Pro
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">dscacheutil -flushcache
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;lt;restart&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>
+&lt;p>System Prefs&lt;/p>
+&lt;ul>
+&lt;li>Resolution of 1440x900 (Displays)&lt;/li>
+&lt;li>Uncheck natural scroll direction (Trackpad-&amp;gt;Scroll and Zoom)&lt;/li>
+&lt;li>Use F1, F2 as function keys (Keyboard)&lt;/li>
+&lt;li>Don&amp;rsquo;t show input menu in menu bar (Keyboard-&amp;gt;Input Sources)&lt;/li>
+&lt;li>Dark Mode&lt;br>
+&lt;img src="aditya-dom.github.io/arawn/p/mac-system-setup/darkside.jpeg"
+width="271"
+height="186"
+srcset="aditya-dom.github.io/arawn/p/mac-system-setup/darkside_hu98a3c37bcd80352aa85b64c6da9eb82d_9502_480x0_resize_q75_box.jpeg 480w, aditya-dom.github.io/arawn/p/mac-system-setup/darkside_hu98a3c37bcd80352aa85b64c6da9eb82d_9502_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="dark side meme"
+class="gallery-image"
+data-flex-grow="145"
+data-flex-basis="349px"
+>&lt;/li>
+&lt;li>Change computer name to MacBook-Pro (Sharing)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Google Chrome:&lt;/p>
+&lt;ul>
+&lt;li>Download, drag and drop&lt;/li>
+&lt;li>Sign in and sync stuff&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Sublime Text&lt;/p>
+&lt;ul>
+&lt;li>Download, drag and drop&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Content&lt;/p>
+&lt;ul>
+&lt;li>Transfer personal files from HDD&lt;/li>
+&lt;li>Screen background to &lt;code>hacker_img.jpg&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Things 3&lt;/p>
+&lt;ul>
+&lt;li>Install from Mac App Store&lt;/li>
+&lt;li>Sign in and sync tasks&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>iTerm 2&lt;/p>
+&lt;ul>
+&lt;li>Download, drag and drop&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>By now, the system should be looking pretty good. Catalina uses &lt;code>zsh&lt;/code> rather than
+bash, and clang rather than gcc, so porting some stuff over will be tricky, but
+we&amp;rsquo;ll get to that in a minute.&lt;/p>
+&lt;ul>
+&lt;li>Git
+&lt;ul>
+&lt;li>download mac installer from &lt;code>git-scm.com&lt;/code>&lt;/li>
+&lt;li>ctrl-click and click &amp;lsquo;open&amp;rsquo; (security won&amp;rsquo;t let you click to open)&lt;/li>
+&lt;li>follow installer guidelines
+? Will xcode command line tools eat this up?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&amp;lt;DON&amp;rsquo;T DO THIS!&amp;gt;&lt;/p>
+&lt;ul>
+&lt;li>Python
+&lt;ul>
+&lt;li>Download latest stable installer from web&lt;/li>
+&lt;li>Double click and install &lt;br>
+! Don&amp;rsquo;t do this because this does not install python properly; you have to
+hack around it and do a ton of exports and stuff. I had to uninstall
+python after this, using instructions from &lt;a class="link" href="https://stackoverflow.com/questions/3819449/how-to-uninstall-python-2-7-on-a-mac-os-x-10-6-4/3819829#381982" target="_blank" rel="noopener"
+>here&lt;/a>
+and &lt;a class="link" href="https://superuser.com/questions/276840/uninstalling-python-3-on-a-mac" target="_blank" rel="noopener"
+>here&lt;/a>.
+Best way to install is to use &lt;code>brew&lt;/code> (this keeps the python updated) and
+&lt;code>pyenv&lt;/code>, so first install &lt;code>brew&lt;/code>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&amp;lt;/DON&amp;rsquo;T DO THIS!&amp;gt;&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>XCode Command Line Tools&lt;/p>
+&lt;ul>
+&lt;li>GCC, &lt;code>clang&lt;/code>, &lt;code>make&lt;/code> etc etc&lt;/li>
+&lt;li>Download from developer.apple.com, mount, use .pkg installer&lt;/li>
+&lt;li>It&amp;rsquo;s a 400 MB download and takes 2.54 GB of space on the system.&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>This doesn&amp;rsquo;t eat up git (&lt;code>git --version&lt;/code> still gives git 2.27, so yay!)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Homebrew&lt;/p>
+&lt;ul>
+&lt;li>Needed for practically everything :P&lt;/li>
+&lt;li>visit brew.sh and copy-paste the installation command&lt;/li>
+&lt;li>Again, a huge download here (350 MB)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Python&lt;/p>
+&lt;ul>
+&lt;li>Use &lt;code>pyenv&lt;/code> to download and install python, as shown in the article &lt;a class="link" href="https://opensource.com/article/19/5/python-3-default-mac" target="_blank" rel="noopener"
+>https://opensource.com/article/19/5/python-3-default-mac&lt;/a>&lt;/li>
+&lt;li>In short, do the following:&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">brew install pyenv
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv install 3.9.0 &lt;span class="c1"># replace with latest python version&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv global 3.9.0 &lt;span class="c1"># set 3.9.0 as global version&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv version &lt;span class="c1"># double check version&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> -e &lt;span class="s1">&amp;#39;if command -v pyenv 1&amp;gt;/dev/null 2&amp;gt;&amp;amp;1; then\n eval &amp;#34;$(pyenv init -)&amp;#34;\nfi&amp;#39;&lt;/span> &amp;gt;&amp;gt; ~/.zshrc &lt;span class="c1"># voodoo magic that allows pyenv to work&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">exit&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>and now do &lt;code>python -V&lt;/code> and &lt;code>pip -V&lt;/code> to verify that python 3.9.0 is loaded&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Vim&lt;/p>
+&lt;ul>
+&lt;li>Copy &lt;code>.vim&lt;/code> and &lt;code>.vimrc&lt;/code> from previous system&lt;/li>
+&lt;li>check if clipboard copy/paste is enabled: &lt;code>vim --version | grep clipboard&lt;/code>,
+a + sign appears if clipboard is enabled&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>ZSH&lt;/p>
+&lt;ul>
+&lt;li>edit &lt;code>.zprofile&lt;/code> and add &lt;code>export CLICOLOR=1&lt;/code> for coloured output from commands&lt;/li>
+&lt;li>add prompt tweaks &lt;code>PS1='%F{green}%n@%m:%f %F{blue}%~%f %% '&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>iTerm2&lt;/p>
+&lt;ul>
+&lt;li>Tweak profile; first, create a new profile&lt;/li>
+&lt;li>Change background color to &lt;code>333333&lt;/code>, foreground to &lt;code>dddddd&lt;/code> and other colors
+to pastel colours&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Mail&lt;/p>
+&lt;ul>
+&lt;li>Log in to google&lt;/li>
+&lt;li>Configure signatures, calendars, mail folders etc&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Projects&lt;/p>
+&lt;ul>
+&lt;li>This is the meaty part. Start with the blog:&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git clone --select-branch --branch &lt;span class="nb">source&lt;/span> https://github.com/Aditya-dom/arawn.github.io
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">mv arawn.github.io blog
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> blog
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">virtualenv venv
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">source&lt;/span> venv/bin/activate
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;venv&amp;#34;&lt;/span> &amp;gt; .gitignore
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install -r requirements.txt
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>then whip up this article. I ran into a small hiccup while using &lt;code>make html&lt;/code>:
+the version of Pelican that &lt;code>pip&lt;/code> installed was 4.5.0, and that broke with the
+old Flex theme. I had made some modifications to the theme (MathJax) and didn&amp;rsquo;t
+want to lose them by upgrading. So, I downgraded pelican to 4.2.0 and then made
+the files. Takeaway is use &lt;code>make html DEBUG=1&lt;/code> for debugger output. Do a &lt;code>make serve&lt;/code>
+to check out formatting, after which do &lt;code>make github&lt;/code> to push to github pages, which is what
+you&amp;rsquo;re reading now (this article has been made from the mac :)&lt;/p>
+&lt;p>for further updates, refer to the repository linked above.&lt;/p>
+&lt;script src="https://giscus.app/client.js"
+data-repo="Aditya-dom/arawn.github.io"
+data-repo-id="R_kgDOLeAbmQ"
+data-category="General"
+data-category-id="DIC_kwDOLeAbmc4CeCQd"
+data-mapping="title"
+data-strict="0"
+data-reactions-enabled="1"
+data-emit-metadata="1"
+data-input-position="top"
+data-theme="dark_dimmed"
+data-lang="en"
+data-loading="lazy"
+crossorigin="anonymous"
+async>
+&lt;/script></description></item><item><title>About</title><link>aditya-dom.github.io/arawn/about/</link><pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/about/</guid><description>&lt;p>Hello, I&amp;rsquo;m Aditya, a first-year undergraduate student at IET Lucknow. My academic journey is marked by a keen interest in cutting-edge technologies, particularly within the realms of Deep Learning and Quantitative Research and Trading. Currently, I am engaged in independent research on Large Language Models (LLMs) using platforms like &lt;a class="link" href="https://huggingface.co/" target="_blank" rel="noopener"
+>Hugging Face&lt;/a> and &lt;a class="link" href="https://openai.com/research/gpt-4" target="_blank" rel="noopener"
+>OpenAI&amp;rsquo;s GPT models (GPT-4 Turbo)&lt;/a>, including &lt;a class="link" href="https://ollama.com/library/llama2" target="_blank" rel="noopener"
+>ollama.v.llama2&lt;/a> .&lt;/p>
+&lt;p>In addition to my academic pursuits, I bring a practical dimension to my passion through hands-on experiences. I have delved into the world of algorithmic trading with a focus on quantitative research &amp;amp; trading. My exposure includes valuable experience at &lt;a class="link" href="https://density.exchange/" target="_blank" rel="noopener"
+>Density Exchange&lt;/a>, where I actively participated in algorithmic trading. This experience has not only sharpened my analytical skills but has also given me insights into the dynamic landscape of financial markets.&lt;/p>
+&lt;p>My passion extends beyond the theoretical, as I actively explore the practical applications of my knowledge. I have a particular inclination towards Web Development, seeking to blend creativity with functionality. Additionally, I find joy and challenge in Competitive Coding, where I continually hone my problem-solving skills and algorithmic thinking.&lt;/p>
+&lt;p>As I embark on my academic and research endeavors, I am eager to contribute to the ever-evolving landscape of technology and make meaningful strides in the fields that captivate my interest. My multifaceted interests, coupled with my practical experience in algorithmic trading, reflect not only my academic pursuits but also my commitment to staying at the forefront of innovation and applying my skills in real-world scenarios.&lt;/p>
+&lt;p>I look forward to leveraging my academic foundation, research initiatives, and diverse interests to contribute meaningfully to the dynamic world of technology and make a positive impact.&lt;/p></description></item><item><title>Archives</title><link>aditya-dom.github.io/arawn/archives/</link><pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/archives/</guid><description/></item><item><title>Projects</title><link>aditya-dom.github.io/arawn/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/projects/</guid><description>&lt;h1 id="adityas-projects-showcase">Aditya&amp;rsquo;s Projects Showcase
+&lt;/h1>&lt;h2 id="adityas-ravage-ecosystem">Aditya&amp;rsquo;s Ravage Ecosystem
+&lt;/h2>&lt;h3 id="penetration-testing-tools">Penetration Testing Tools
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Moonwalk-back&lt;/strong>: Moonwalk-back is a penetration testing tool designed to leave zero traces on system logs, ensuring discreet testing activities.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Moonwalk-back" target="_blank" rel="noopener"
+>Moonwalk-back&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Moonwalk-back"
+loading="lazy"
+alt="Moonwalk-back Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="post-exploitation-techniques">Post-Exploitation Techniques
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Rusty-arsenal&lt;/strong>: Rusty-arsenal leverages Rust programming language for post-exploitation techniques and process injection, providing robust security solutions.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Rusty-arsenal" target="_blank" rel="noopener"
+>Rusty-arsenal&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Rusty-arsenal"
+loading="lazy"
+alt="Rusty-arsenal Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="adityas-ml-ecosystem">Aditya&amp;rsquo;s ML Ecosystem
+&lt;/h2>&lt;h3 id="quantitative-finance">Quantitative Finance
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Quantitative Finance with Backtesting Strategies&lt;/strong>: This project focuses on implementing elegant and classic strategies for quantitative finance, facilitating reliable backtesting of trading strategies.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Quantfinance-with-backtesting" target="_blank" rel="noopener"
+>Quantitative Finance Backtesting&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Quantfinance-with-backtesting"
+loading="lazy"
+alt="Quantitative Finance Backtesting Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="virtual-try-on">Virtual Try-On
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Virtual Try-On of Clothes&lt;/strong>: Utilizing convolutional neural networks and recurrent neural networks, this project enables virtual try-on of clothes, enhancing the online shopping experience.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Try-on-of-clothes-using-CNN-RNN" target="_blank" rel="noopener"
+>Virtual Try-On&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Try-on-of-clothes-using-CNN-RNN"
+loading="lazy"
+alt="Virtual Try-On Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="breast-cancer-detection-using-image-processing-different-approaches">Breast cancer detection using Image Processing different Approaches
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Image Processing with Various Approaches&lt;/strong>: Employing multiple techniques such as image processing and classifiers, this project aims to solve various image-related tasks.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL" target="_blank" rel="noopener"
+>Breast-Cancer-Predictions&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL"
+loading="lazy"
+alt="Breast-Cancer-Predictions"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="reinforcement-learning">Reinforcement Learning
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Reinforcement Learning based on Stock Trading&lt;/strong>: Using a DRQN model, this project applies reinforcement learning techniques to stock trading, aiming for optimized trading decisions.
+&lt;ul>
+&lt;li>GitHub Repository: &lt;a class="link" href="https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading" target="_blank" rel="noopener"
+>Stock Trading using RL&lt;/a>&lt;/li>
+&lt;li>Stars: &lt;img src="https://img.shields.io/github/stars/Aditya-dom/Deep-Reinforcement-learning-stock-trading"
+loading="lazy"
+alt="Stock Trading RL Stars"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;script src="https://giscus.app/client.js"
+data-repo="Aditya-dom/arawn.github.io"
+data-repo-id="R_kgDOLeAbmQ"
+data-category="General"
+data-category-id="DIC_kwDOLeAbmc4CeCQd"
+data-mapping="title"
+data-strict="0"
+data-reactions-enabled="1"
+data-emit-metadata="1"
+data-input-position="top"
+data-theme="dark_dimmed"
+data-lang="en"
+data-loading="lazy"
+crossorigin="anonymous"
+async>
+&lt;/script></description></item><item><title>Search</title><link>aditya-dom.github.io/arawn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>aditya-dom.github.io/arawn/search/</guid><description/></item></channel></rss>
